@@ -5,3 +5,10 @@ D:\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
 D:\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
 D:\homework2\homework2\obj\Debug\homework2.exe
 D:\homework2\homework2\obj\Debug\homework2.pdb
+D:\ku\CSharpHomework\homework2\homework2\bin\Debug\homework2.exe.config
+D:\ku\CSharpHomework\homework2\homework2\bin\Debug\homework2.exe
+D:\ku\CSharpHomework\homework2\homework2\bin\Debug\homework2.pdb
+D:\ku\CSharpHomework\homework2\homework2\obj\Debug\homework2.csprojAssemblyReference.cache
+D:\ku\CSharpHomework\homework2\homework2\obj\Debug\homework2.csproj.CoreCompileInputs.cache
+D:\ku\CSharpHomework\homework2\homework2\obj\Debug\homework2.exe
+D:\ku\CSharpHomework\homework2\homework2\obj\Debug\homework2.pdb

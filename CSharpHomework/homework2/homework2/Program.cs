@@ -13,11 +13,14 @@ namespace homework2
             Console.WriteLine("输入整数：");
             string s = Console.ReadLine();
             int n = Int32.Parse(s);
-            for(int i = 2;i<=n;i++)
+            Console.WriteLine("素数因子：");
+            for (int i = 2;i<=n;i++)
             {
                 if (n % i == 0)
                 {
                     n = n / i;
+                    while (n % i == 0)
+                        n = n / i;
                     Console.Write(i.ToString());
                     Console.Write(" ");
                 }
