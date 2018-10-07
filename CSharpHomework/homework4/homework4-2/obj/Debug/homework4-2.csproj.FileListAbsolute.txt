@@ -1,0 +1,7 @@
+D:\homework4\homework4-2\bin\Debug\homework4-2.exe.config
+D:\homework4\homework4-2\bin\Debug\homework4-2.exe
+D:\homework4\homework4-2\bin\Debug\homework4-2.pdb
+D:\homework4\homework4-2\obj\Debug\homework4-2.csprojAssemblyReference.cache
+D:\homework4\homework4-2\obj\Debug\homework4-2.csproj.CoreCompileInputs.cache
+D:\homework4\homework4-2\obj\Debug\homework4-2.exe
+D:\homework4\homework4-2\obj\Debug\homework4-2.pdb
